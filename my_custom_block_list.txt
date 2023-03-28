@@ -18,3 +18,10 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 grs.hicloud.com
