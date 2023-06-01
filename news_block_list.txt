@@ -1,0 +1,2 @@
+0.0.0.0 dailymail.com
+0.0.0.0 dailymail.co.uk
