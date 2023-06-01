@@ -1,2 +1,2 @@
-dailymail.com
-dailymail.co.uk
+||dailymail.com
+||dailymail.co.uk
