@@ -25,3 +25,6 @@
 0.0.0.0 telegraph.co.uk
 0.0.0.0 www.telegraph.co.uk
 0.0.0.0 m.telegraph.co.uk
+0.0.0.0 thesun.co.uk
+0.0.0.0 www.thesun.co.uk
+0.0.0.0 m.thesun.co.uk
