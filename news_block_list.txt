@@ -1,2 +1,9 @@
-||dailymail.com^$all
-||dailymail.co.uk^$all
+0.0.0.0 dailymail.com
+0.0.0.0 dailymail.co.uk
+0.0.0.0 express.co.uk
+0.0.0.0 mirror.co.uk
+0.0.0.0 theguardian.com
+0.0.0.0 burytimes.co.uk
+0.0.0.0 theboltonnews.co.uk
+0.0.0.0 manchestereveningnews.co.uk
+0.0.0.0 telegraph.co.uk
