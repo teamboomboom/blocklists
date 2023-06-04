@@ -1,9 +1,27 @@
-^dailymail.com^
-^dailymail.co.uk^
-^express.co.uk^
-^mirror.co.uk^
+0.0.0.0 dailymail.com
+0.0.0.0 www.dailymail.com
+0.0.0.0 m.dailymail.com
+0.0.0.0 dailymail.co.uk
+0.0.0.0 www.dailymail.co.uk
+0.0.0.0 m.dailymail.co.uk
+0.0.0.0 express.co.uk
+0.0.0.0 www.express.co.uk
+0.0.0.0 m.express.co.uk
+0.0.0.0 mirror.co.uk
+0.0.0.0 www.mirror.co.uk
+0.0.0.0 m.mirror.co.uk
 0.0.0.0 theguardian.com
+0.0.0.0 www.theguardian.com
+0.0.0.0 m.theguardian.com
 0.0.0.0 burytimes.co.uk
+0.0.0.0 www.burytimes.co.uk
+0.0.0.0 m.burytimes.co.uk
 0.0.0.0 theboltonnews.co.uk
+0.0.0.0 www.theboltonnews.co.uk
+0.0.0.0 m.theboltonnews.co.uk
 0.0.0.0 manchestereveningnews.co.uk
+0.0.0.0 www.manchestereveningnews.co.uk
+0.0.0.0 m.manchestereveningnews.co.uk
 0.0.0.0 telegraph.co.uk
+0.0.0.0 www.telegraph.co.uk
+0.0.0.0 m.telegraph.co.uk
