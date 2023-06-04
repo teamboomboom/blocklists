@@ -1,2 +1,2 @@
-||dailymail.com^$all
-||dailymail.co.uk^$all
+*dailymail.com^$all
+*dailymail.co.uk^$all
